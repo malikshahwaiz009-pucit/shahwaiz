@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malikshahwaiz009-pucit/malikshahwaiz009-pucit/main/profile.jpg" width="180" alt="Shahwaiz">
+  <img src="./profile.jpg" width="180" alt="Shahwaiz">
 </p>
 
 <h1 align="center">👋 Hi, I'm Shahwaiz</h1>
