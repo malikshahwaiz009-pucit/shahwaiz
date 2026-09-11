@@ -187,54 +187,81 @@ My personal portfolio website showcasing my:
 
 ---
 
-# 🧠 Currently Exploring
+## 🧠 Currently Exploring
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Artificial Intelligence</b></td>
+<td>→</td>
+<td align="center">✨<br><b>Generative AI</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>LLMs & Prompt Engineering</b></td>
+</tr>
+<tr>
+<td align="center">📚<br><b>RAG</b></td>
+<td>→</td>
+<td align="center">🤖<br><b>AI Agents</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>AI Automation</b></td>
+</tr>
+</table>
+
+### 🎯 My Focus
+
+I'm particularly interested in combining **Artificial Intelligence + Full Stack Development** to build practical, intelligent, and useful applications.
+
+---
+
+## 🎯 My Goals
+
+<table>
+<tr>
+<td>🚀 Build practical AI-powered applications</td>
+<td>🧠 Strengthen Machine Learning fundamentals</td>
+</tr>
+<tr>
+<td>🤖 Develop real-world Generative AI applications</td>
+<td>🌐 Become a stronger Full Stack Developer</td>
+</tr>
+<tr>
+<td>☁️ Improve Cloud & AWS skills</td>
+<td>⚙️ Build intelligent automation workflows</td>
+</tr>
+<tr>
+<td>💼 Gain professional development experience</td>
+<td>📚 Keep learning and contributing</td>
+</tr>
+</table>
+
+---
+
+## 📈 My Developer Journey
 
 ```text
-Artificial Intelligence
+💻 C++ & Programming
         ↓
-Generative AI
+🌐 Web Development
         ↓
-LLMs & Prompt Engineering
+☕ Java & Spring Boot
         ↓
-RAG & AI Agents
+🧩 Full Stack Development
         ↓
-AI Automation
+🤖 Artificial Intelligence
         ↓
-Full Stack AI Applications
+✨ Generative AI & LLMs
+        ↓
+📚 RAG & AI Agents
+        ↓
+⚙️ AI Automation
+        ↓
+🚀 AI-Powered Applications
 
-I'm particularly interested in combining Artificial Intelligence + Full Stack Development to build useful and intelligent applications.
+Learn → Build → Automate → Innovate
 
-🎯 My Goals
-🚀 Build practical AI-powered applications
-🧠 Strengthen my Machine Learning fundamentals
-🤖 Develop real-world Generative AI applications
-🌐 Become a stronger Full Stack Developer
-☁️ Improve my Cloud & AWS skills
-⚙️ Build intelligent automation workflows
-💼 Gain professional development experience
-📚 Keep learning and contributing to technology
-📈 My Developer Journey
-C++ & Programming
-       ↓
-Web Development
-       ↓
-Java & Spring Boot
-       ↓
-Full Stack Development
-       ↓
-Artificial Intelligence
-       ↓
-Generative AI & LLMs
-       ↓
-RAG & AI Agents
-       ↓
-AI Automation
-       ↓
-Building AI-Powered Applications 🚀
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malikshahwaiz009-pucit&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshahwaiz009-pucit&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malikshahwaiz009-pucit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshahwaiz009-pucit&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p>
 🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=malikshahwaiz009-pucit&theme=tokyonight&hide_border=true"> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=malikshahwaiz009-pucit&theme=tokyonight&hide_border=true" width="70%"> </p>
 🤝 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/shahwaiz-7965ab389"> <img src="https://img.shields.io/badge/LinkedIn-Shahwaiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/malikshahwaiz009-pucit"> <img src="https://img.shields.io/badge/GitHub-Shahwaiz-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
 <h3 align="center"> 💡 Learn. Build. Automate. Innovate. </h3> <p align="center"> ⭐ Feel free to explore my repositories and follow my journey in AI & Software Development. </p> ```
