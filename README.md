@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.jpg" width="180" alt="Shahwaiz">
+  <img src="https://raw.githubusercontent.com/malikshahwaiz009-pucit/malikshahwaiz009-pucit/main/profile.jpg" width="180" alt="Shahwaiz">
 </p>
 
 <h1 align="center">👋 Hi, I'm Shahwaiz</h1>
@@ -10,10 +10,10 @@ BSAI Student | AI Developer | Full Stack Web Developer
 
 <p align="center">
   <a href="https://github.com/malikshahwaiz009-pucit">
-    <img src="https://img.shields.io/badge/GitHub-Shahwaiz-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Shahwaiz-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/shahwaiz-7965ab389">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahwaiz-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahwaiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -101,6 +101,7 @@ I enjoy building practical projects, learning new technologies, and turning idea
 A **C++ based Examination Management System** designed to manage examination operations and student seating efficiently.
 
 **Features:**
+
 - 🔐 Admin Login
 - 👨‍🏫 Invigilator Login
 - 🏫 Room & Capacity Management
@@ -127,10 +128,11 @@ A frontend e-commerce website designed for a pizza ordering experience with a cl
 A web-based weather application that provides weather information using a weather API.
 
 **Features:**
+
 - 🌡️ Weather information
 - 🌍 Location-based data
 - ☁️ Weather conditions
-- 📱 Simple and responsive interface
+- 📱 Responsive interface
 
 **Technology:**
 
@@ -211,10 +213,6 @@ I'm particularly interested in combining Artificial Intelligence + Full Stack De
 ⚙️ Build intelligent automation workflows
 💼 Gain professional development experience
 📚 Keep learning and contributing to technology
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malikshahwaiz009-pucit&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshahwaiz009-pucit&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=malikshahwaiz009-pucit&theme=tokyonight&hide_border=true"> </p>
 📈 My Developer Journey
 C++ & Programming
        ↓
@@ -233,5 +231,10 @@ RAG & AI Agents
 AI Automation
        ↓
 Building AI-Powered Applications 🚀
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malikshahwaiz009-pucit&show_icons=true&theme=tokyonight&hide_border=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikshahwaiz009-pucit&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=malikshahwaiz009-pucit&theme=tokyonight&hide_border=true"> </p>
 🤝 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/shahwaiz-7965ab389"> <img src="https://img.shields.io/badge/LinkedIn-Shahwaiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/malikshahwaiz009-pucit"> <img src="https://img.shields.io/badge/GitHub-Shahwaiz-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
+<h3 align="center"> 💡 Learn. Build. Automate. Innovate. </h3> <p align="center"> ⭐ Feel free to explore my repositories and follow my journey in AI & Software Development. </p> ```
